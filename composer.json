@@ -1,0 +1,17 @@
+{
+    "name": "mihan/user-flow-api",
+    "description": "api for create user flow",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "UserFlowApi\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Михаил Репьёв",
+            "email": "mihan240500@gmail.com"
+        }
+    ],
+    "require": {}
+}

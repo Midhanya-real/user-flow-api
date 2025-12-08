@@ -13,5 +13,7 @@
             "email": "mihan240500@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "doctrine/orm": "^3.5"
+    }
 }
